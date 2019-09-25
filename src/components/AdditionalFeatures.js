@@ -1,6 +1,12 @@
 import React from 'react';
 import AdditionalFeature from './AdditionalFeature';
 
+
+
+// step 4: Add events and event handlers in UI
+
+
+
 const AdditionalFeatures = props => {
   return (
     <div className="content">
